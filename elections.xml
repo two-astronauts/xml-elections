@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<?xml-stylesheet type="text/xsl" href="elections.xsl"?>
+
+<departamentos>
+    <departamento nombre="Cundinamarca" region="andina" inscritos="600">
+        <blanco>200</blanco>
+        <partido1>100</partido1>
+        <partido2>120</partido2>
+        <partido3>180</partido3>
+    </departamento>
+    <departamento nombre="Antioquia" region="andina" inscritos="900">
+        <blanco>180</blanco>
+        <partido1>300</partido1>
+        <partido2>110</partido2>
+        <partido3>120</partido3>
+    </departamento>
+    <departamento nombre="Valle" region="pacífico" inscritos="890">
+        <blanco>130</blanco>
+        <partido1>130</partido1>
+        <partido2>200</partido2>
+        <partido3>380</partido3>
+    </departamento>
+    <departamento nombre="Arauca" region="orinoquía" inscritos="690">
+        <blanco>120</blanco>
+        <partido1>140</partido1>
+        <partido2>108</partido2>
+        <partido3>130</partido3>
+    </departamento>
+    <departamento nombre="Atlántico" region="caribe" inscritos="790">
+        <blanco>105</blanco>
+        <partido1>110</partido1>
+        <partido2>112</partido2>
+        <partido3>180</partido3>
+    </departamento>
+</departamentos>
